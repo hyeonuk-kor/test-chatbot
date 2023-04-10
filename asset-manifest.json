@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.adae1563.js",
+    "main.css": "./static/css/main.59a62502.css",
+    "main.js": "./static/js/main.a89a0c3d.js",
     "static/js/787.5b255ad6.chunk.js": "./static/js/787.5b255ad6.chunk.js",
+    "static/media/KBFGTextM.ttf": "./static/media/KBFGTextM.96326806d52b79ce4b82.ttf",
+    "static/media/KBFGTextB.ttf": "./static/media/KBFGTextB.d99da18abf2903c61fec.ttf",
+    "static/media/KBFGTextL.ttf": "./static/media/KBFGTextL.f30423bba6195a0c9b0a.ttf",
+    "static/media/KBFGDisplayL.ttf": "./static/media/KBFGDisplayL.05b242528a3018493f12.ttf",
+    "static/media/KBFGDisplayM.ttf": "./static/media/KBFGDisplayM.dcbab3f9e2ff4400ffcd.ttf",
+    "static/media/KBFGDisplayB.ttf": "./static/media/KBFGDisplayB.af84612a2090ad6c653c.ttf",
+    "static/media/GmarketSansTTFBold.ttf": "./static/media/GmarketSansTTFBold.69428064ef8eee25be33.ttf",
+    "static/media/GmarketSansTTFMedium.ttf": "./static/media/GmarketSansTTFMedium.d4bac6b182bed73c9375.ttf",
+    "static/media/GmarketSansTTFLight.ttf": "./static/media/GmarketSansTTFLight.efaa8f19ead1555b1c39.ttf",
+    "static/media/KBFGDisplayMI.ttf": "./static/media/KBFGDisplayMI.2529f1727d4daeb532f8.ttf",
     "index.html": "./index.html",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.adae1563.js.map": "./static/js/main.adae1563.js.map",
+    "main.59a62502.css.map": "./static/css/main.59a62502.css.map",
+    "main.a89a0c3d.js.map": "./static/js/main.a89a0c3d.js.map",
     "787.5b255ad6.chunk.js.map": "./static/js/787.5b255ad6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.adae1563.js"
+    "static/css/main.59a62502.css",
+    "static/js/main.a89a0c3d.js"
   ]
 }
